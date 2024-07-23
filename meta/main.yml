@@ -1,8 +1,8 @@
 galaxy_info:
-  author: NeonMinnen
+  author: Viraxi
   company: <3
   role_name: forgejo
-  namespace: NeonMinnen
+  namespace: Viraxi
   description: Forgejo
   platforms:
     - name: Debian
