@@ -1,8 +1,8 @@
 galaxy_info:
-  author: Viraxi
+  author: Elusyx
   company: <3
   role_name: forgejo
-  namespace: Viraxi
+  namespace: Elusyx
   description: Forgejo
   platforms:
     - name: Debian
