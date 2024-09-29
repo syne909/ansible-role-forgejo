@@ -1,8 +1,8 @@
 galaxy_info:
-  author: Elusyx
+  author: Secnotica
   company: <3
   role_name: forgejo
-  namespace: Elusyx
+  namespace: Secnotica
   description: Forgejo
   platforms:
     - name: Debian
