@@ -1,8 +1,8 @@
 galaxy_info:
-  author: Secnotica
+  author: Syne
   company: <3
   role_name: forgejo
-  namespace: Secnotica
+  namespace: Syne
   description: Forgejo
   platforms:
     - name: Debian
